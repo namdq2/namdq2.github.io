@@ -565,8 +565,8 @@ body {
 
 .Header__links ul li {
   list-style: none;
-  margin-bottom: 10px;
-  font-size: 13px;
+  margin-bottom: 12px;
+  font-size: 18px;
   text-align: center;
   -webkit-transition: all .3s ease;
   -o-transition: all .3s ease;
@@ -585,11 +585,11 @@ body {
 }
 
 .Header__links span {
-  top: 150px;
+  top: 220px;
   left: -24px;
   width: 68px;
   height: 20px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.2;
   white-space: nowrap;
   position: absolute;
@@ -602,8 +602,8 @@ body {
 .Header__links span::after {
   content: '';
   top: 9px;
-  right: -48px;
-  width: 40px;
+  right: -70px;
+  width: 60px;
   height: 1px;
   display: block;
   position: absolute;
