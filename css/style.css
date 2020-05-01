@@ -930,7 +930,7 @@ body {
   position: absolute;
   bottom: 0;
   left: 50%;
-  max-width: 300px;
+  max-width: 400px;
   width: 100%;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
