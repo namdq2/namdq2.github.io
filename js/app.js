@@ -225,6 +225,6 @@ $('#overlaySentPopup, #SentPopupClose').on('click', function(){
 
 
 
-setTimeout(function(){
-    $('#loader').fadeToggle();
-}, 1000);
+// setTimeout(function(){
+//     $('#loader').fadeToggle();
+// }, 1000);
