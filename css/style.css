@@ -1120,6 +1120,14 @@ body {
   padding: 0 30px 0 30px;
 }
 
+.section-resume__education {
+  width: 50%;
+}
+
+.section-resume__experience {
+  width: 50%;
+}
+
 .Page_wrapper .section-third-wrapper .section-resume .section-resume-timeline li {
   list-style: none;
 }
