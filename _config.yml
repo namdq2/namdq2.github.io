@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nam Dang Quoc
+title: Nam Dang
 email: namquoc.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal site of Nam Dang — a technology leader passionate about software architecture, distributed systems, and blockchain innovation. 
+  Sharing insights on engineering, architecture design, and building scalable systems that make a real impact.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://namdq.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: namdq2
+linkedin_username: namdq2
 github_username:  namdq2
 permalink: /:categories/:year/:month/:day/:title:output_ext
 # Build settings
