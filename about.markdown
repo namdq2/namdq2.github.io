@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I’m Dang Quoc Nam — a technology leader with a strong focus on software architecture, distributed systems, and blockchain innovation.
+Hello, I’m Nam Dang — a technology leader with a strong focus on software architecture, distributed systems, and blockchain innovation.
 
 ### Who I Am
 I’m currently a Technical Lead at VAR META, where I oversee technical architecture and support the growth of engineering teams.  
@@ -26,4 +26,4 @@ Technology should serve people — not the other way around.
 I’m interested in building systems that can grow sustainably over time, learning from emerging technologies, and contributing to open, decentralized ecosystems.
 
 ### Connect
-If you’d like to discuss technology, system design, or potential collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/namdq2).
+If you’d like to discuss technology, system design, or potential collaboration, feel free to reach out.
