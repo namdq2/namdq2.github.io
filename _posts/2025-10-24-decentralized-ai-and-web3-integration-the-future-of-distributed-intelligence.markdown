@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decentralized AI (DeAI) and Web3-AI Integration: The Future of Distributed Intelligence"
-date: 2025-10-25 14:33:00 +0700
+date: 2025-10-24 12:22:00 +0700
 categories: ai web3 blockchain deai decentralization
 ---
 
